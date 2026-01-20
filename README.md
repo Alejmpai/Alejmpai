@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou o Ale! 👋
 
-<!--
-**Alejmpai/Alejmpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre mim
+-  Programador fullstack
+- 🎓 Focado em desenvolvimento de software e versionamento.
 
-Here are some ideas to get you started:
+- 🚀 Atualmente focado em conhecimentos de:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Desemvolvimento
+  - JavaScript
+  - Html
+  - CSS
+  - React
+  - Next
+  - Node JS
+
+  AWS (Console Amazom)
+  -S3
+  - DynamoDB
+  - AWS Amplify
+  - Cognito
+  - CodeDeploy
+  - EC2
+  - Amazon Simple Email Service
+  - CloudWatch
+  - AWS AppSync
+  - Lambda
+  - CloudFront AWS Amplify
+      
+  APP
+  - Flutter
+  -  dart
+---
